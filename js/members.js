@@ -458,4 +458,5 @@ var members = [
 ]
 
 var members=shuffle(members);
+document.getElementById('user_count').innerHTML = members.length;
 
