@@ -230,8 +230,196 @@ var members = [
             {"name": "youtube", "link":"https://www.youtube.com/HessamLd"},
             {"name": "instagram", "link":"https://www.instagram.com/hessam_ld"}, 
         ]
-    }
-
+    },
+    {
+        "name":"Master_Craft",
+        "image":"masterc.jpg",
+        "links": [
+            {"name": "youtube", "link":"https://youtube.com/@mastercraftyt.?si=EjsLbfvjy_DD5aKU"},
+        ]
+    },
+    {
+        "name":"MoeinXM",
+        "image":"fercius.jpg",
+        "links": [
+            {"name": "link", "link":"https://www.aparat.com/MoeinXM_Stream1"},
+            {"name": "twitch", "link":"https://www.twitch.tv/moein_xm"},
+            {"name": "instagram", "link":"https://www.instagram.com/moeiinxm/"}, 
+        ]
+    },
+    {
+        "name":"Fercius",
+        "image":"fercius.jpg",
+        "links": [
+            {"name": "link", "link":"https://fercius.ir/"},
+            {"name": "youtube", "link":"https://www.youtube.com/fercius"},
+            {"name": "instagram", "link":"https://www.instagram.com/fercius_in"}, 
+        ]
+    },
+    {
+        "name":"waish",
+        "image":"waish.gif",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/waishchannel"}            
+        ]
+    },
+    {
+        "name":"Efisoli",
+        "image":"efisoli.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/Efisoli"},
+            {"name": "instagram", "link":"https://www.instagram.com/efi_soli"}            
+        ]
+    },
+    {
+        "name":"ermiya_yt",
+        "image":"ermiya.png",
+        "links": [            
+            {"name": "youtube", "link":"https://youtube.com/@ermiya_yt?si=WSW6QX_NiqjlAyz7"},
+            {"name": "instagram", "link":"https://www.instagram.com/ermiya_yt?igsh=MXE5ZXJlNmJmeDgy"}            
+        ]
+    },
+    {
+        "name":"Ali Domble",
+        "image":"alidom.png",
+        "links": [            
+            {"name": "youtube", "link":"https://youtube.com/@alidomble?si=LyWvXbY_C8-TVi6_"}            
+        ]
+    },
+    {
+        "name":"DeciSiv3 | Deci",
+        "image":"deci.png",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/channel/UCQ-ZnGeEGzGwzIaDdU0s_9w"},
+            {"name": "instagram", "link":"https://www.instagram.com/decisiv33/"}            
+        ]
+    },
+    {
+        "name":"Kyomai",
+        "image":"kyomai.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://youtube.com/@q_mai?si=mKcwtSqY4fyBQ9I7"}            
+        ]
+    },
+    {
+        "name":"ReaLKOROL",
+        "image":"realkor.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://youtube.com/c/realkorol42"},
+            {"name": "instagram", "link":"https://www.instagram.com/ItsKOROL"}            
+        ]
+    },
+    {
+        "name":"MrSensio",
+        "image":"mrsensio.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/channel/UCXMrvafkAlZZ75xHFhIMHuA"}            
+        ]
+    },
+    {
+        "name":"Mr Strong P",
+        "image":"strong.png",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/@Mr_Strong"},
+            {"name": "instagram", "link":"https://www.instagram.com/mr.strongp/"}            
+        ]
+    },
+    {
+        "name":"Zigur",
+        "image":"zigur.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/@zziigguurr/videos"},
+            {"name": "instagram", "link":"https://www.instagram.com/zziigguurr/"}, 
+            {"name": "link", "link":"https://t.me/addlist/EGLbl3PzlJBhYjdk"},
+        ]
+    },
+    {
+        "name":"limoti",
+        "image":"limoti.jpg",
+        "links": [            
+            {"name": "youtube", "link":"http://youtube.com/@limoti"}            
+        ]
+    },
+    {
+        "name":"Ali Abrand",
+        "image":"abrand.jpg",
+        "links": [   
+            {"name": "youtube", "link":"https://www.youtube.com/@aliabrand-gaming/videos"},
+            {"name": "link", "link":"https://discord.gg/vdxQ9qQpxx"}            
+        ]
+    },
+    {
+        "name":"MRG ICONIC",
+        "image":"mrg.png",
+        "links": [   
+            {"name": "youtube", "link":"https://www.youtube.com/@MRGICONIC/featured"},
+            {"name": "instagram", "link":"https://www.instagram.com/mrg_iconic/"}            
+        ]
+    },
+    {
+        "name":"Comrade Pouya",
+        "image":"comrad.jpg",
+        "links": [   
+            {"name": "youtube", "link":"https://youtube.com/@comradepouya?si=kevxm1D175j65-S-"},
+            {"name": "instagram", "link":"https://www.instagram.com/comrade_pouya"}            
+        ]
+    },
+    {
+        "name":"mr_tenixx",
+        "image":"tenix.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/c/tenixx"},
+            {"name": "instagram", "link":"https://www.instagram.com/x_tenixx"}            
+        ]
+    },
+    {
+        "name":"Toplayer",
+        "image":"toplayer.png",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/@toplayer"},
+            {"name": "instagram", "link":"https://www.instagram.com/toplayer_yt"}            
+        ]
+    },
+    {
+        "name":"HesamLf",
+        "image":"lfname.png",
+        "links": [            
+            {"name": "youtube", "link":"http://www.youtube.com/@HesamLf"}            
+        ]
+    },
+    {
+        "name":"Mini Matador",
+        "image":"matador.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://youtube.com/@minimatador4869?si=Ti0vT34SS-St3asW"},
+            {"name": "instagram", "link":"https://www.instagram.com/mini.matador?igsh=MWM5Nm5scmpzM214Ng=="}            
+        ]
+    },
+    {
+        "name":"Amin Mckellen",
+        "image":"aminmc.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/@MckellenGaming"},
+            {"name": "instagram", "link":"https://instagram.com/AminMckellen"}, 
+            {"name": "twitch", "link":"https://www.twitch.tv/aminmckellen"},
+        ]
+    },
+    {
+        "name":"Khodemooni media",
+        "image":"khodemooni.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://youtube.com/@khodemoonimedia"},
+            {"name": "instagram", "link":"https://www.instagram.com/khodemooni.media"}, 
+            {"name": "link", "link":"https://t.me/khodemoonimedia"},
+        ]
+    },
+    {
+        "name":"ParisaAT",
+        "image":"parisa.png",
+        "links": [
+            {"name": "twitch", "link":"https://www.twitch.tv/parisaat"},
+        ]
+    },
 ]
 
 var members=shuffle(members);
