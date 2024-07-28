@@ -28,7 +28,7 @@ var members = [
     },
     {
         "name":"Milad",
-        "image":"milad.jpg",
+        "image":"milad.jpg?2",
         "links": [
             {"name": "youtube", "link":"https://www.youtube.com/@milad148/"},
             {"name": "twitch", "link":"https://twitch.tv/Milad"},
@@ -66,16 +66,7 @@ var members = [
             {"name": "youtube", "link":"https://www.youtube.com/@0rdak/videos"},
             {"name": "youtube", "link":"https://www.youtube.com/@LordQaz"},
         ]
-    },
-    {
-        "name":"AminMckellen",
-        "image":"am.jpg",
-        "links": [
-            {"name": "twitch", "link":"https://www.twitch.tv/aminmckellen"},
-            {"name": "youtube", "link":"https://www.youtube.com/@aminmckellen"},
-            {"name": "instagram", "link":"https://www.instagram.com/AminMckellen"},
-        ]
-    },
+    },    
     {
         "name":"REZA KP1",
         "image":"rk.jpg",
@@ -240,7 +231,7 @@ var members = [
     },
     {
         "name":"MoeinXM",
-        "image":"fercius.jpg",
+        "image":"moein.jpg",
         "links": [
             {"name": "link", "link":"https://www.aparat.com/MoeinXM_Stream1"},
             {"name": "twitch", "link":"https://www.twitch.tv/moein_xm"},
@@ -418,6 +409,50 @@ var members = [
         "image":"parisa.png",
         "links": [
             {"name": "twitch", "link":"https://www.twitch.tv/parisaat"},
+        ]
+    },
+    {
+        "name":"Dojo craft",
+        "image":"dojo.png",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/channel/UCZHfBFdCYiwIYWQ0ae9ftkg"},
+            {"name": "instagram", "link":"https://www.instagram.com/dojo_craft/"}, 
+            {"name": "link", "link":"https://www.tiktok.com/@dojo_craft"},
+        ]
+    },
+    {
+        "name":"Khanom Kalakhe | Cr0wx",
+        "image":"crow.webp",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/@Cr0wx"}            
+        ]
+    },
+    {
+        "name":"Alirexza",
+        "image":"alirexza.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/@alirexzam"},
+            {"name": "instagram", "link":"https://www.instagram.com/alirexzam/"}, 
+            {"name": "twitch", "link":"https://www.twitch.tv/alirexza"},
+        ]
+    },
+    {
+        "name":"Yeggiz",
+        "image":"yegi.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/@Yeggiz"},
+            {"name": "instagram", "link":"https://www.instagram.com/yeggizz"}, 
+            {"name": "twitch", "link":"https://twitch.tv/yeggiz"},
+        ]
+    },
+    {
+        "name":"QueenForest",
+        "image":"qforest.jpg",
+        "links": [            
+            {"name": "youtube", "link":"https://www.youtube.com/channel/UCp2WOKcvhUIhw1aiTRs6ygA"},
+            {"name": "instagram", "link":"https://www.twitch.tv/queenforest"}, 
+            {"name": "twitch", "link":"https://www.instagram.com/queenforestofficial/"},
+                        
         ]
     },
 ]
